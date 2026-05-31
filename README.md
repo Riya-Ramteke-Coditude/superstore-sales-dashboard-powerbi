@@ -185,10 +185,7 @@ The following steps were performed before building the dashboard:
 
 ### Main Dashboard
 
-```markdown
-![Dashboard Preview](Dashboard_PBI
-.png)
-```
+![Dashboard Preview](Dashboard_PBI.png)
 
 ---
 
